@@ -1,1 +1,2 @@
-# emma-novel-vs-movie-script
+# Emma -- Novel-vs-movie-script
+This is a project
